@@ -1,10 +1,10 @@
 ### {{ name_header }}
 
-#### Link(URL scheme)
+#### HyperLink
 
-[|tap to import| {{ link_name }}]({{ link_url }})
+[| Tap on this Link | `{{ link_name }}`]({{ link_url }})
 
-#### scheme raw
+#### URL scheme raw
 
 ```
 {{ scheme_raw }}
