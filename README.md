@@ -8,8 +8,7 @@ Original [iceberg.vim](https://github.com/cocopon/iceberg.vim) (reference: [coco
 
 > [!WARNING]
 > Use at your own risk! User themes aren't "officially" supported, and this may break in future versions.
-> If you enter invalid JSON or anything else that the app can't deal with, it *will* crash -- your input is not validated in any way.
-
+> If you enter invalid JSON or anything else that the app can't deal with, it *will* crash -- your input is not validated in any way.  
 > 自己責任で使用してください。ユーザーテーマは "公式に "サポートされていませんので、将来のバージョンでは壊れるかもしれません。 無効なJSONやアプリが処理できないものを入力すると、クラッシュします。
 
 
