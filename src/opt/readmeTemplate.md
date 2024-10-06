@@ -14,13 +14,11 @@ Original [iceberg.vim](https://github.com/cocopon/iceberg.vim) (reference: [coco
 
 ## How to Install
 
-On your device, "`| Tap on this Link |`". If Pythonista 3 is installed, it will ask you to open the app. Tap `Open` to install it.
-
+On your device, "`| Tap on this Link |`". If Pythonista 3 is installed, it will ask you to open the app. Tap `Open` to install it.  
 **Or**, copy the string displayed in "URL scheme raw", display it as a hyperlink on Pythonista3, and tap it.
 
 
-Pythonista3 がインストールされているデバイスで、`"| Tap on this Link |"` をタップ。「"Pythonista"で開きますか?」の表示で、「開く」を選択。
-
+Pythonista3 がインストールされているデバイスで、`"| Tap on this Link |"` をタップ。「"Pythonista"で開きますか?」の表示で、「開く」を選択。  
 **または、**「URL scheme raw」の文字列をコピー。Pythonista3 等で、ハイパーリンク形式にして開く。
 
 {{ section }}
