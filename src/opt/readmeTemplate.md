@@ -21,12 +21,12 @@ Pythonista3 がインストールされているデバイスで、�
 
 {{ section }}
 
-## Building your own
+## memo(Building your own)
 
 > [!WARNING]
 > URL のリンク、scheme よりインストールした theme ファイル名: UUID（のような）形式  
 > 以下のコードから生成した theme ファイル名: 取得先の`.json` 名  
-> と、ファイル名が異なります
+> と、ファイル名が違う（インポートの手法が違うため、ファイル命名を統一できない）
 
 
 ### 生成反映：`applytheme.py`
