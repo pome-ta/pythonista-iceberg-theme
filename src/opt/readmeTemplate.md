@@ -1,4 +1,4 @@
-# あ
+# pythonista-iceberg-theme
 
 ![screenshot](./screenshot/screenshot.png)
 

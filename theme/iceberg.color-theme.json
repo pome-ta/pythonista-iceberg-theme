@@ -1,0 +1,134 @@
+{
+ "___author_name": "cocopon",
+ "___file_name": "iceberg.color-theme.json",
+ "___file_url": "https://github.com/cocopon/vscode-iceberg-theme/blob/main/themes/iceberg.color-theme.json",
+ "___license_kind": "MIT License",
+ "___pushed_at": "2023-01-17T12:49:57Z",
+ "___repository_url": "https://github.com/cocopon/vscode-iceberg-theme",
+ "background": "#161821",
+ "bar_background": "#161821",
+ "dark_keyboard": true,
+ "default_text": "#c6c8d1",
+ "editor_actions_icon_background": "#2a3158",
+ "editor_actions_icon_tint": "#cdd1e6",
+ "editor_actions_popover_background": "#1e2132",
+ "error_text": "#e27878",
+ "gutter_background": "#1e2132",
+ "gutter_border": "#0e1015",
+ "interstitial": "#ff00ff",
+ "library_background": "#161821",
+ "library_tint": "#6b7089",
+ "line_number": "#444b71",
+ "name": "Iceberg",
+ "scopes": {
+  "bold": {
+   "font-style": "bold"
+  },
+  "bold-italic": {
+   "font-style": "bold-italic"
+  },
+  "builtinfunction": {
+   "color": "#c6c8d1"
+  },
+  "checkbox": {
+   "checkbox": true
+  },
+  "checkbox-done": {
+   "checkbox": true,
+   "done": true
+  },
+  "class": {
+   "color": "#c6c8d1"
+  },
+  "classdef": {
+   "color": "#c6c8d1",
+   "font-style": "bold"
+  },
+  "code": {
+   "background-color": "#6b7089",
+   "corner-radius": 2.0
+  },
+  "codeblock-start": {
+   "color": "#a093c7"
+  },
+  "comment": {
+   "color": "#6b7089",
+   "font-style": "italic"
+  },
+  "decorator": {
+   "color": "#b4be82"
+  },
+  "default": {
+   "color": "#c6c8d1"
+  },
+  "docstring": {
+   "color": "#a093c7",
+   "font-style": "italic"
+  },
+  "escape": {
+   "background-color": "#84a0c6"
+  },
+  "formatting": {
+   "color": "#6b7089"
+  },
+  "function": {
+   "color": "#e2a478"
+  },
+  "functiondef": {
+   "color": "#e2a478",
+   "font-style": "bold"
+  },
+  "heading-1": {
+   "color": "#e2a478",
+   "font-style": "bold"
+  },
+  "heading-2": {
+   "color": "#e2a478",
+   "font-style": "bold"
+  },
+  "heading-3": {
+   "color": "#e2a478",
+   "font-style": "bold"
+  },
+  "italic": {
+   "font-style": "italic"
+  },
+  "keyword": {
+   "color": "#84a0c6"
+  },
+  "link": {
+   "color": "#84a0c6",
+   "text-decoration": "underline"
+  },
+  "marker": {
+   "box-background-color": "#1e2132",
+   "box-border-color": "#84a0c6",
+   "box-border-type": 4
+  },
+  "module": {
+   "color": "#89b8c2"
+  },
+  "number": {
+   "color": "#a093c7"
+  },
+  "project": {
+   "font-style": "bold"
+  },
+  "string": {
+   "color": "#89b8c2"
+  },
+  "tag": {
+   "text-decoration": "none"
+  },
+  "task-done": {
+   "color": "#89b8c2",
+   "text-decoration": "strikeout"
+  }
+ },
+ "separator_line": "#242940",
+ "tab_background": "#0e1015",
+ "tab_title": "#6b7089",
+ "text_selection_tint": "#cdd1e6",
+ "thumbnail_border": "#0e1015",
+ "tint": "#c6c8d1"
+}
