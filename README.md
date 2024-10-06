@@ -50,9 +50,10 @@ pythonista3://?action=add-theme&theme-data=eNqtVk1z4jAMvfdXMPRKGiDQAP-gM7u3nvaSc
 > 以下のコードから生成した theme ファイル名: 取得先の`.json` 名  
 > と、ファイル名が異なります
 
+
 ### 生成反映：`applytheme.py`
 
-[`./src/applytheme.py`](./src/applytheme.py)
+[`./src/applytheme.py`](https://github.com/pome-ta/pythonista-iceberg-theme/blob/main/src/applytheme.py)
 
 - 参照先のリポジトリからデータを取得
   - theme の`.json` と、リポジトリ情報を統合
@@ -70,7 +71,7 @@ pythonista3://?action=add-theme&theme-data=eNqtVk1z4jAMvfdXMPRKGiDQAP-gM7u3nvaSc
 
 ### 修正確認：`browsePA2UIThemePath.py`
 
-[`.src/browsePA2UIThemePath.py`](.src/browsePA2UIThemePath.py)
+[`./src/browsePA2UIThemePath.py`](https://github.com/pome-ta/pythonista-iceberg-theme/blob/main/src/browsePA2UIThemePath.py)
 
 - Pythonista3 上で User Theme として認識されているディレクトリを表示
 - 通常通りの操作が可能
