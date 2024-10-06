@@ -1,6 +1,6 @@
 ## {{ name_header }}
 
-### HyperLink
+### Install Link
 
 [| Tap on this Link | `{{ link_name }}`]({{ link_url }})
 

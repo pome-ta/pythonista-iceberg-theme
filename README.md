@@ -21,7 +21,7 @@ Pythonista3 がインストールされているデバイスで、�
 
 ## Iceberg
 
-### HyperLink
+### Install Link
 
 [| Tap on this Link | `iceberg.color-theme.json`](https://tinyurl.com/ylyqpsoo)
 
@@ -33,7 +33,7 @@ pythonista3://?action=add-theme&theme-data=eNqtVk1zozAMvfdXZNJrKB-hCck_6Mzurae9M
 
 ## Iceberg Light
 
-### HyperLink
+### Install Link
 
 [| Tap on this Link | `iceberg-light.color-theme.json`](https://tinyurl.com/yl6vz2lz)
 
