@@ -6,7 +6,7 @@ Original [iceberg.vim](https://github.com/cocopon/iceberg.vim) (reference: [coco
 
 ![screenshot](./screenshot/screenshot.png)
 
-> [!WARNING]
+> [!CAUTION]
 > Use at your own risk! User themes aren't "officially" supported, and this may break in future versions.
 > If you enter invalid JSON or anything else that the app can't deal with, it _will_ crash -- your input is not validated in any way.  
 > 自己責任で使用してください。ユーザーテーマは "公式に "サポートされていませんので、将来のバージョンでは壊れるかもしれません。 無効な JSON やアプリが処理できないものを入力すると、クラッシュします。
@@ -23,7 +23,7 @@ Pythonista3 がインストールされているデバイスで、�
 
 ## Building your own
 
-> [!CAUTION]
+> [!WARNING]
 > URL のリンク、scheme よりインストールした theme ファイル名: UUID（のような）形式  
 > 以下のコードから生成した theme ファイル名: 取得先の`.json` 名  
 > と、ファイル名が異なります
