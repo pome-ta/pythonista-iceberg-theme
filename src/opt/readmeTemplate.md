@@ -2,7 +2,7 @@
 
 Editor color theme for [Pythonista for iOS](https://omz-software.com/pythonista/).
 
-Original [iceberg.vim](https://github.com/cocopon/iceberg.vim) (reference: [cocopon/vscode-iceberg-theme: Dark blue color theme for Visual Studio Code](https://github.com/cocopon/vscode-iceberg-theme)) for Vim by [cocopon (Hiroki Kokubun)](https://github.com/cocopon).
+Original [iceberg.vim](https://github.com/cocopon/iceberg.vim) (reference: [cocopon/vscode-iceberg-theme](https://github.com/cocopon/vscode-iceberg-theme)) for Vim by [cocopon (Hiroki Kokubun)](https://github.com/cocopon).
 
 ![screenshot](./screenshot/screenshot.png)
 
